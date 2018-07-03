@@ -128,7 +128,7 @@
 		
 			table.style1 tbody tr:nth-child(2n+2)
 			{
-				background: #f4f4f4;
+				background: #fafafa;
 			}
 			
 			table.style1 td
@@ -835,8 +835,11 @@
 			text-align: center;
 			text-transform: uppercase;
 			display: block;
-			font-weight: 700;
+			font-weight: 300;
 			letter-spacing: 0.25em;
+			background-color: #a1a1a1;
+			text-transform: uppercase;
+			letter-spacing: 5px;
 		}
 		
 		.wrapper .title:before
